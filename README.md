@@ -1,4 +1,4 @@
-# Spotlight for Omarchy
+# Spotlight Omakase
 
 A Spotlight-style universal search and quick launcher for the Omarchy shell.
 It uses the same `[menu]` theme tokens as the Omarchy menu, so it follows
@@ -7,7 +7,7 @@ whatever theme you switch to.
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/jglemusb-code/omarchy-spotlight.git --enable --yes
+omarchy plugin add https://github.com/jglemusb-code/omarchy-spotlight-omakase.git --enable --yes
 ```
 
 Then add a keybinding to `~/.config/hypr/bindings.lua`:
