@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "jglemusb.spotlight",
+  "name": "Spotlight",
+  "version": "1.0.0",
+  "author": "jglemusb",
+  "license": "MIT",
+  "description": "Spotlight-style universal search and quick launcher: apps, open windows, Omarchy actions, files, calculator, and web search.",
+  "kinds": ["menu"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "menu": "Spotlight.qml"
+  }
+}
